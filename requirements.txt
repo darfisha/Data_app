@@ -7,3 +7,4 @@ seaborn
 sentence-transformers
 streamlit
 torch
+plotly
